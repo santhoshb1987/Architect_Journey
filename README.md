@@ -1,1 +1,2 @@
-# Architect_Journey
+# Git Learning
+https://resources.github.com/learn/certifications/
