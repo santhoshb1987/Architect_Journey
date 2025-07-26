@@ -1,5 +1,7 @@
 # Linux Boot Process:
 
+![Uploading image.png…]()
+
 Step 1 - When we turn on the power, BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) firmware is loaded from non-volatile memory, and executes POST (Power On Self Test).
 
 Step 2 - BIOS/UEFI detects the devices connected to the system, including CPU, RAM, and storage.
