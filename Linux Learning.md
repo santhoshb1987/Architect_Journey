@@ -1,6 +1,7 @@
 # Linux Boot Process:
 
-![Uploading image.png…]()
+<img width="1280" height="1664" alt="image" src="https://github.com/user-attachments/assets/0361be00-82a3-4097-aa4d-044cc29989e8" />
+
 
 Step 1 - When we turn on the power, BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) firmware is loaded from non-volatile memory, and executes POST (Power On Self Test).
 
